@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
-* Студент: [Ekaterina Parshina](https://up.htmlacademy.ru/ecmascript/11/user/1073759).
-* Наставник: `Неизвестно`.
+* Студент: [Yaroslav Holoborodko](https://htmlacademy.ru/profile/403forbidden).
+* Наставник: [Ekaterina Parshina](https://htmlacademy.ru/profile/1073759).
 
 ---
 
